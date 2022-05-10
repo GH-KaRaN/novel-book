@@ -1,2 +1,3 @@
-i am the copy 
-this is second line
+i am copy 
+this is new line
+third line
