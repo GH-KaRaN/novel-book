@@ -1,1 +1,2 @@
-hello
+hello dummy text
+this is a dummy text
